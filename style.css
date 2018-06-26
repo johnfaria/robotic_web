@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(to right, #ACB6E5, #74ebd5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.borda {
+    border-left: 6px solid #1E88E5;
+    background-color: white;
+    padding-left: 20px;
+}
+label{
+    font-size: 20px
+}
+
+.text-logo{
+    padding-bottom: 12px;
+}
