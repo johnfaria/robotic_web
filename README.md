@@ -1,2 +1,8 @@
-# robotic_web
-arm robot web page control
+# Robotics web page
+
+Arm robot control
+
+* Express
+* Johnny-Five
+* Socket.io
+* Vue.js
